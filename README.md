@@ -33,6 +33,11 @@ https://google.github.io/volley/
 This library sends the response back to the developer through Java's 8 consumer and supplier patterns in order to boilerplate code and save callback logic.
 
 
+## How to implement -
+
+click the following image to redirect to **jitpack.io :** <br>[![](https://jitpack.io/v/magenl/easypush/month.svg)](https://jitpack.io/#MagenL/EasyPush/0.0.1)
+
+
 ### Author
 Magen Levi
 
