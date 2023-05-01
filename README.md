@@ -1,7 +1,7 @@
 ### EasyPush - EasyMessage
 # EasyPush makes push notifications easier than ever.
 
-This project is an Android library that manages push notifications with boilerplate syntax that making a use of it easy and clear.
+This project is an Android library that manages push notifications with simple syntax that makes a use of it easy and clear.
  
 
 ## Features:
